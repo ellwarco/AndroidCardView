@@ -7,5 +7,5 @@
     <string name="logo_desc">App logo</string>
     <string name="blog_title">How to develop Android CardView</string>
     <string name="blog_content">We will go into details to learn how to develop android CardView application and other important concepts that are necessary in understanding the tutorial </string>
-    <string name="read_more">Read more</string>
+    <string name="read_more">Lire la suite</string>
 </resources>

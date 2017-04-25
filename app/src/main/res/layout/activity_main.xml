@@ -64,7 +64,7 @@
                     android:layout_below="@+id/header_text"
                     android:layout_marginLeft="40dp"
                     android:layout_marginTop="16dp"
-                    android:text="Henry"
+                    android:text="Sergey"
                     android:textSize="14sp" />
 
                 <ImageView
